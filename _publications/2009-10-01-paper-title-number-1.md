@@ -8,7 +8,7 @@ venue: 'IEEE Intelligent Systems'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9170754'
 # citation: 'Guanyu Lin. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-Guanyu Lin, Feng liang, Weike Pan, Zhong Ming
+**Guanyu Lin**, Feng liang, Weike Pan, Zhong Ming
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9170754)
 
