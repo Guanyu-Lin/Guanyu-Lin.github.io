@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Carnegie Mellon University. I received the B.E. and M.E. from Shenzhen University and Tsinghua University, respectively. I have broad research interests in data mining and machine learning, especially their large-scale applications. 
+I am currently a Ph.D. student at Carnegie Mellon University. Before that, I received the B.E. and M.E. from Shenzhen University and Tsinghua University, respectively, in 2020 and 2023. I have broad research interests in data mining and machine learning, especially their large-scale applications. 
 Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. The methods I used to develop enable information retrieval systems to provide more personalized service for users.
 I serve as the PC member for AAAI. I used to participate in ACM-ICPC, which is a distant memory now.
 
