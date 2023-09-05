@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Carnegie Mellon University. I received B.E. and M.E. from Shenzhen University and Tsinghua University, respectively. I have broad research interests in data mining and machine learning, especially their large-scale applications. 
-Specifically, I tend to improve machine learning and deep learning for information retrieval and large-scale distributed systems, including their optimization and architecture. The methods I used to develop enable information retrieval systems to provide more personalized service for users.
-I serve as the PC member for AAAI. I used to participate in ACM-ICPC, which is a distant memories now.
+I am currently a Ph.D. student at Carnegie Mellon University. I received the B.E. and M.E. from Shenzhen University and Tsinghua University, respectively. I have broad research interests in data mining and machine learning, especially their large-scale applications. 
+Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. The methods I used to develop enable information retrieval systems to provide more personalized service for users.
+I serve as the PC member for AAAI. I used to participate in ACM-ICPC, which is a distant memory now.
 
 Research Interests
 ---
@@ -24,9 +24,9 @@ Academic Experiences
 
 Industrial Experiences
 ---
-* Beijing Kuaishou Technology Co., Ltd, where I closely worked with Dr. [Yang Song](http://sonyis.me/).
-* Tiktok, Bytedance. 
-* Wechat, Tencent.
+* Developed recommendation model for Kwai at Beijing Kuaishou Technology Co., Ltd, where I closely worked with Dr. [Yang Song](http://sonyis.me/).
+* Developed recommendation model for Tiktok at Bytedance. 
+* ...
 
 Selected Awards
 ---
