@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Look for teaching assistant in machine learning.
 
 Heading 1
 ======
