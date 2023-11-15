@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at Carnegie Mellon University. Before that, I received the B.E. and M.E. from Shenzhen University and Tsinghua University, respectively, in 2020 and 2023. I have broad research interests in data mining and machine learning, especially their large-scale applications. 
-Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. The methods I used to develop enable information retrieval systems to provide more personalized service for users.
-I serve as the PC member for AAAI. I used to participate in ACM-ICPC, which is a distant memory now.
+Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. The methods I used to develop enable information retrieval systems to provide personalized service for over 60,000,000 users. I serve as the PC member for AAAI. I used to participate in ACM-ICPC, which is a distant memory now.
 
 Research Interests
 ---
-* Machine Learning, Deep Learning, Federated Learning, Information Retrieval
+* Machine Learning, Data Mining, Information Retrieval, and Language Models.
 
 Selected Publications
 ---
@@ -23,13 +21,13 @@ Selected Publications
 * **Guanyu Lin**, Feng Liang, Weike Pan, Zhong Ming. FedRec: Federated Recommendation With Explicit Feedback. IEEE Intelligent Systems. [[pdf](https://ieeexplore.ieee.org/document/9170754)].
 * ...
   
-Academic Experiences
+<!-- Academic Experiences
 ---
 * [Future Intelligence Lab (FIB)](http://fi.ee.tsinghua.edu.cn/), where I was advised by Prof. [Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/) and closely worked with Dr. [Chen Gao](https://sites.google.com/view/chengaothu/). 
-* [National Engineering laboratory for Big Data System Computing Technology](https://bdsc.szu.edu.cn/public/index.html#/h5/home?lan=en), where I was advised by Prof. [Weike Pan](https://csse.szu.edu.cn/staff/panwk/). 
+* [National Engineering laboratory for Big Data System Computing Technology](https://bdsc.szu.edu.cn/public/index.html#/h5/home?lan=en), where I was advised by Prof. [Weike Pan](https://csse.szu.edu.cn/staff/panwk/).  -->
 
 
-Industrial Experiences
+Intern Experiences
 ---
 * Developed recommendation model for Kwai at Beijing Kuaishou Technology Co., Ltd, where I closely worked with Dr. [Yang Song](http://sonyis.me/).
 * Developed recommendation model for Tiktok at Bytedance. 
