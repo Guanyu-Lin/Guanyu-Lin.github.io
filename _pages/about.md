@@ -41,5 +41,6 @@ Selected Awards
 * Mathematical Contest in Modeling, U.S.A.: Meritorious Winner (First Prize), 2019
 * Outstanding Graduating Student of Beijing, 2023
 * National Scholarship, 2018-2019 
+* CSC-IBM Outstanding Scholarship, 2018-2019 (40 winners nationally) 
 * First Class Academic Scholarship in Tsinghua University, 2020- 2021
 
