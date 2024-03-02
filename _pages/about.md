@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. The methods I used to develop enable information retrieval systems to provide personalized service for over 60,000,000 users. I serve as the PC member for TOIS, AAAI, ICLR Workshop. I used to participate in ACM-ICPC, which is a distant memory now.
+Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. I serve as the PC member for TOIS, AAAI, ICLR Workshop. I used to participate in ACM-ICPC, which is a distant memory now.
 
 Research Interests
 ---
