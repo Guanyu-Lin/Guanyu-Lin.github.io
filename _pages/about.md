@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. I serve as the PC member for TOIS, AAAI, ICLR Workshop. I used to participate in ACM-ICPC, which is a distant memory now.
+Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. I was once a research intern at some big techs like Kwai, improving the trillion-parameter models. I serve as the PC member for TOIS, AAAI, ICLR Workshop. I used to participate in ACM-ICPC, which is a distant memory now.
 
 Research Interests
 ---
@@ -32,7 +32,6 @@ Selected Publications
 Intern Experiences
 ---
 * Developed recommendation model for Kwai at Beijing Kuaishou Technology Co., Ltd, where I closely worked with Dr. [Yang Song](http://sonyis.me/).
-* Developed recommendation model for Tiktok at Bytedance. 
 * ...
 
 Selected Awards
