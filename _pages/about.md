@@ -17,11 +17,9 @@ Research Interests
 Selected Publications
 ---
 * **Guanyu Lin**, Jinwei Luo, Yinfeng Li, Chen Gao, Qun Luo, Depeng Jin. Iterative Sparse Attention for Long-sequence Recommendation. AAAI 2025 Accepted.
-
 * **Guanyu Lin**, Tao Feng, Pengrui Han, Ge Liu, Jiaxuan You. Arxiv Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance. EMNLP 2024 Demo Track. [[pdf](https://aclanthology.org/2024.emnlp-demo.13/)] [[demo](https://huggingface.co/spaces/ulab-ai/ArxivCopilot)].
-
 * **Guanyu Lin**, Chen Gao, Yu Zheng, Yinfeng Li, Jianxin Chang, Yanan Niu, Yang Song, Kun Gai, Zhiheng Li, Depeng Jin, Yong Li. Inverse Learning with Extremely Sparse Feedback for Recommendation. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (Oral). [[pdf](https://arxiv.org/abs/2311.08302)].
-*  **Guanyu Lin**, Chen Gao, Yu Zheng, Jianxin Chang, Yanan Niu, Yang Song, Kun Gai, Zhiheng Li, Depeng Jin, Yong Li, Meng Wang. Mixed Attention Network for Cross-domain Sequential Recommendation. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (Oral). [[pdf](https://arxiv.org/abs/2311.08272)].
+* **Guanyu Lin**, Chen Gao, Yu Zheng, Jianxin Chang, Yanan Niu, Yang Song, Kun Gai, Zhiheng Li, Depeng Jin, Yong Li, Meng Wang. Mixed Attention Network for Cross-domain Sequential Recommendation. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (Oral). [[pdf](https://arxiv.org/abs/2311.08272)].
 * **Guanyu Lin**, Chen Gao, Yu Zheng, Jianxin Chang, Yanan Niu, Yang Song, Zhiheng Li, Depeng Jin, Yong Li. Dual-interest Factorization-heads Attention for Sequential Recommendation. Proceedings of the ACM Web Conference 2023 (Oral). [[pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583278)].
 * **Guanyu Lin**, Chen Gao, Yinfeng Li, Yu Zheng, Zhiheng Li, Depeng Jin, Yong Li. Dual Contrastive Network for Sequential Recommendation. Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (Short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3477495.3531918)].
 * **Guanyu Lin**, Feng Liang, Weike Pan, Zhong Ming. FedRec: Federated Recommendation With Explicit Feedback. IEEE Intelligent Systems (Feature). [[pdf](https://ieeexplore.ieee.org/document/9170754)].
