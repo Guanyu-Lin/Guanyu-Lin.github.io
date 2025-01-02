@@ -8,19 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. I was once a research intern at some big techs like Kwai, improving the trillion-parameter models. I serve as the PC member for TOIS, AAAI, ICLR Workshop. I used to participate in ACM-ICPC, which is a distant memory now.
+Hi, I am from Carnegie Mellon University. Before that, I graduated from Tsinghua University. I have broad research interests in data mining and machine learning, especially their large-scale applications. Specifically, I am interested in developing more advanced machine learning and deep learning methods for information retrieval and large-scale distributed systems, from optimization and architecture perspectives. I was once a research intern at some big techs like Tiktok, improving the trillion-parameter models. I serve as the PC member for ICLR, AAAI, and TOIS. I used to participate in ACM-ICPC, which is a distant memory now.
 
 Research Interests
 ---
-* Machine Learning, Data Mining, Information Retrieval, and Language Models.
+* Machine Learning, Data Mining, Recommender Systems, Language Models, and Federated Leanring.
 
 Selected Publications
 ---
+* **Guanyu Lin**, Jinwei Luo, Yinfeng Li, Chen Gao, Qun Luo, Depeng Jin. Iterative Sparse Attention for Long-sequence Recommendation. AAAI 2025 Accepted.
+
+* **Guanyu Lin**, Tao Feng, Pengrui Han, Ge Liu, Jiaxuan You. Arxiv Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance. EMNLP 2024 Demo Track. [[pdf](https://aclanthology.org/2024.emnlp-demo.13/)] [[demo](https://huggingface.co/spaces/ulab-ai/ArxivCopilot)].
+
 * **Guanyu Lin**, Chen Gao, Yu Zheng, Yinfeng Li, Jianxin Chang, Yanan Niu, Yang Song, Kun Gai, Zhiheng Li, Depeng Jin, Yong Li. Inverse Learning with Extremely Sparse Feedback for Recommendation. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (Oral). [[pdf](https://arxiv.org/abs/2311.08302)].
 *  **Guanyu Lin**, Chen Gao, Yu Zheng, Jianxin Chang, Yanan Niu, Yang Song, Kun Gai, Zhiheng Li, Depeng Jin, Yong Li, Meng Wang. Mixed Attention Network for Cross-domain Sequential Recommendation. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (Oral). [[pdf](https://arxiv.org/abs/2311.08272)].
 * **Guanyu Lin**, Chen Gao, Yu Zheng, Jianxin Chang, Yanan Niu, Yang Song, Zhiheng Li, Depeng Jin, Yong Li. Dual-interest Factorization-heads Attention for Sequential Recommendation. Proceedings of the ACM Web Conference 2023 (Oral). [[pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583278)].
-* **Guanyu Lin**, Chen Gao, Yinfeng Li, Yu Zheng, Zhiheng Li, Depeng Jin, Yong Li. Dual Contrastive Network for Sequential Recommendation. Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3477495.3531918)].
-* **Guanyu Lin**, Feng Liang, Weike Pan, Zhong Ming. FedRec: Federated Recommendation With Explicit Feedback. IEEE Intelligent Systems (feature article). [[pdf](https://ieeexplore.ieee.org/document/9170754)].
+* **Guanyu Lin**, Chen Gao, Yinfeng Li, Yu Zheng, Zhiheng Li, Depeng Jin, Yong Li. Dual Contrastive Network for Sequential Recommendation. Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (Short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3477495.3531918)].
+* **Guanyu Lin**, Feng Liang, Weike Pan, Zhong Ming. FedRec: Federated Recommendation With Explicit Feedback. IEEE Intelligent Systems (Feature). [[pdf](https://ieeexplore.ieee.org/document/9170754)].
 * ...
   
 <!-- Academic Experiences
@@ -32,6 +36,7 @@ Selected Publications
 Intern Experiences
 ---
 * Developed recommendation model for Kwai at Beijing Kuaishou Technology Co., Ltd, where I closely worked with Dr. [Yang Song](http://sonyis.me/).
+* Developed recommendation model for Tiktok.
 * ...
 
 Selected Awards
