@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Machine Learning Engineer at TikTok, improving the trillion-parameter recommendation models. 
+Hi, I am working on large language models and recommender systems. 
 
 Research Interests
 ---
