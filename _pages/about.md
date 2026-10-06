@@ -12,7 +12,7 @@ Hi, I am working on large language models and recommender systems.
 
 Research Interests
 ---
-* Machine Learning, Data Mining, Recommender Systems, Language Models, and Federated Leanring.
+* Large Language Models, Generative Retrieval, Recommender Systems.
 
 Selected Publications
 ---
